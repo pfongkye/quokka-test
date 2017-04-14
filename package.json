@@ -1,0 +1,21 @@
+{
+  "name": "quokka-test",
+  "quokka": {
+    "babel": true
+  },
+  "version": "1.0.0",
+  "description": "testing quokka",
+  "main": "calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pfongkye",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0"
+  }
+}
